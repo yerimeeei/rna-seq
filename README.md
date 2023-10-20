@@ -1,1 +1,1 @@
-# rna-seq
+# scRNA-seq
